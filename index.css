@@ -15,8 +15,6 @@
     grid-template-rows: repeat(3,minmax(120px, 200px));
     gap: 10px;
 
-    
-
 }
 
 .item{
@@ -38,7 +36,6 @@ img{
     grid-column: span 2;
     background-color: #339888;
 
-    
 }
 
 .item:nth-of-type(2){
